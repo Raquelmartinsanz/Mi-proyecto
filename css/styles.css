@@ -1,0 +1,15 @@
+.encabezado{
+    text-align: center;
+}
+#carousel{
+    padding-left: 1.5cm;
+}
+#card2{
+    align-content: right;
+}
+#card4{
+    align-content: right;
+}
+.tamanodefoto{
+    height: 300px; width: 500px;
+}
